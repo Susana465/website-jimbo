@@ -1,5 +1,5 @@
 ---
-title: "website-jimbo"
+title: "Jimbo Tatts"
 ---
 
 This is a Quarto website.
