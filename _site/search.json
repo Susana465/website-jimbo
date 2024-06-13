@@ -4,7 +4,12 @@
     "href": "index.html",
     "title": "Jimbo Tatts",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Home",
+      "Tattooing Info",
+      "Jimbo Tatts"
+    ]
   },
   {
     "objectID": "about.html",
@@ -12,5 +17,79 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "section1.html",
+    "href": "section1.html",
+    "title": "SECTION 1",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "section2.html",
+    "href": "section2.html",
+    "title": "SECTION 2",
+    "section": "",
+    "text": "About this site",
+    "crumbs": [
+      "Home",
+      "Art",
+      "SECTION 2"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email, Socials, Address",
+    "crumbs": [
+      "Home",
+      "Tattooing Info",
+      "Contact"
+    ]
+  },
+  {
+    "objectID": "contact.html#tattoo-appointment-information",
+    "href": "contact.html#tattoo-appointment-information",
+    "title": "Contact",
+    "section": "Tattoo appointment information",
+    "text": "Tattoo appointment information\nInsert text",
+    "crumbs": [
+      "Home",
+      "Tattooing Info",
+      "Contact"
+    ]
+  },
+  {
+    "objectID": "contact.html#another-title",
+    "href": "contact.html#another-title",
+    "title": "Contact",
+    "section": "Another title",
+    "text": "Another title\nInsert text",
+    "crumbs": [
+      "Home",
+      "Tattooing Info",
+      "Contact"
+    ]
+  },
+  {
+    "objectID": "booking.html",
+    "href": "booking.html",
+    "title": "Book in for a tattoo",
+    "section": "",
+    "text": "About this site",
+    "crumbs": [
+      "Home",
+      "Tattooing Info",
+      "Book in for a tattoo"
+    ]
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "This is some text with arial font\n\nHow to Change Font Type in HTML [Inline CSS]\n\n\nThis is dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text.\n\n\nThe Explanation\n\n\nThe default typeface is Times New Roman. That means changing the typeface of a paragraph will require me to use a style attribute that contains the CSS font-family property set to “Arial.” The other elements on the page are not targeted by inline CSS and therefore remain Times New Roman."
   }
 ]

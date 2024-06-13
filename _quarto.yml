@@ -4,14 +4,38 @@ project:
 website:
   title: "Jimbo Tatts"
   navbar:
+    tools:
+      - icon: instagram
+        href: https://www.instagram.com/jimbo.tatts/
+      - icon: github
+        menu:
+          - text: Source Code
+            href:  https://github.com/Susana465/website-jimbo
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - about.qmd 
+      - contact.qmd
+      - blog.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Tattooing Info"
+        contents:
+          - index.qmd
+          - contact.qmd
+          - booking.qmd
+      - section: "Blog"
+        contents:
+          - blog1.qmd
+          - blog2.qmd
+          - blog3.qmd
 
 format:
   html:
     theme: cosmo
+    font-family: Georgia, serif;
     css: styles.css
     toc: true
 
